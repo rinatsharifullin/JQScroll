@@ -1,0 +1,22 @@
+body{
+    height: 300vh;
+
+}
+
+div{
+    position: fixed;
+    width: 100%;
+    height: 100vh;
+}
+p{
+    position: absolute;
+    /* top:-100px; */
+    padding: 0;
+    margin: 0;
+}
+img{
+    opacity:0;
+    position: absolute;
+    width: 100%;
+    height: auto;
+}
